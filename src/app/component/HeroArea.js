@@ -26,7 +26,7 @@ const HeroArea = () => {
         }, 2000);
     };
     return (
-        <div className='relative'>
+        <div className='relative' id='home'>
             
             
             
